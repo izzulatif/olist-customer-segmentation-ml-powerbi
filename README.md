@@ -47,7 +47,7 @@ Understanding customer lifetime value and behavior is critical for scaling e-com
 | :--- | :--- | :--- | :--- | :--- |
 | **Cluster 3** | High-Value VIPs | ~6,274 | Elite spenders (~$1,928 avg monetary) | Priority support, early access to product launches, exclusive loyalty tiers. |
 | **Cluster 4** | Big Spenders | ~4,606 | High upper-middle spend (~$666 avg monetary) | Cross-sell premium category bundles and high-margin product lines. |
-| **Cluster 0** | Active Shoppers | ~34,619 | Recent buyers (~88 days recency), baseline spend (~$124) | Post-purchase follow-up reviews, recommendation engines for secondary accessories. |
+| **Cluster 0** | Active Shoppers | ~34,619 | Recent buyers (88 days recency), baseline spend ($124) | Post-purchase follow-up reviews, recommendation engines for secondary accessories. |
 | **Cluster 2** | Mid-Tier Inactive | ~34,569 | Moderate recency (~256 days), low spend | Automated "We miss you" email campaigns featuring tailored incentive discounts. |
 | **Cluster 1** | Long-Dormant / Churned | ~22,057 | High recency (~459 days), low engagement | Low-cost win-back drip sequences or automated reactivation offers. |
 
