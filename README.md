@@ -1,3 +1,4 @@
+![Power BI Dashboard Preview](images/dashboard_preview.png)
 # Automated RFM Customer Segmentation & Machine Learning Pipeline
 
 An end-to-end data engineering, unsupervised machine learning, and business intelligence project built on the full **Brazilian E-Commerce Public Dataset by Olist**. This project ingests tens of thousands of customer records from a relational database, extracts RFM behavioral metrics, implements K-Means clustering to segment the customer base, and visualizes the insights via Python and Power BI.
